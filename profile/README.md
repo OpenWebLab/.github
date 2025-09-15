@@ -1,5 +1,7 @@
 # Welcome to OpenWebLab 🌐
 
+[![Visitor Count](https://profile-counter.glitch.me/OpenWebLab/count.svg)](https://github.com/OpenWebLab)
+
 [![GitHub Org](https://img.shields.io/badge/GitHub-Open%20Source-blue?style=flat-square)](https://github.com/OpenWebLab)
 
 ## About OpenWebLab
