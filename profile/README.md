@@ -35,7 +35,7 @@ Explore some of our current initiatives:
 ## 🤝 Contributing
 We welcome **developers, researchers, educators, and enthusiasts** to contribute!  
 
-Please check our [Contribution Guidelines](https://github.com/OpenWebLab/CONTRIBUTING.md) before submitting PRs.
+Please check our [Contribution Guidelines](https://github.com/OpenWebLab/.github/blob/main/CONTRIBUTING.md) before submitting PRs.
 
 ---
 
