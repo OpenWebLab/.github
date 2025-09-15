@@ -18,7 +18,7 @@ We focus on building **developer tools, playgrounds, and migration solutions** t
 ## 🚀 Featured Projects
 Explore some of our current initiatives:
 
-- **[RDF Playground](rdfplay.netlify.app)** – Learn and test RDF triples interactively.  
+- **[RDF Playground](https://rdfplay.netlify.app/)** – Learn and test RDF triples interactively.  
 - **[SOLID OS Basic UI](https://solid-profile.netlify.app/)** – SOLID OS UI MVP with React and TypeScript.  
 - **[SOLID App Starter]()** – Boilerplate for building SOLID-compliant apps (In Progress).  
 - **[ERP2SOLID Migration Tools]()** – Seamlessly migrate legacy ERP systems to SOLID apps (Coming Soon).  
